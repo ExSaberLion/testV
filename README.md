@@ -17,8 +17,8 @@
 
 5.客户端配置
 
-      安装后打开 订阅->订阅设置->地址栏 填入自己的订阅地址,添加->更新订阅,就能看到很多服务器了 如图: https://s3.jpg.cm/2020/09/10/1ylUR.png , https://s3.jpg.cm/2020/09/10/1yXE4.png
+安装后打开 订阅->订阅设置->地址栏 填入自己的订阅地址,添加->更新订阅,就能看到很多服务器了 如图: https://s3.jpg.cm/2020/09/10/1ylUR.png , https://s3.jpg.cm/2020/09/10/1yXE4.png
 
-      桌面下方的 V 右键->http 代理->开启 http 代理..(全局模式) 就可以了 如图:https://s3.jpg.cm/2020/09/10/1yA6G.png , https://s3.jpg.cm/2020/09/10/1yVxu.png
+桌面下方的 V 右键->http 代理->开启 http 代理..(全局模式) 就可以了 如图:https://s3.jpg.cm/2020/09/10/1yA6G.png , https://s3.jpg.cm/2020/09/10/1yVxu.png
 
 6.真香
