@@ -1,6 +1,6 @@
 # 给大家推个便宜的稳定的 科学上网方法 38rmb/90 天(3 个月).看油管稳定高速
 
-注册链接:https://pud.life/aff/jmmq
+注册链接:https://pud.life/aff/Oxl7
 
 价格套餐图:https://s3.jpg.cm/2020/09/10/1yQzC.png
 测速图: https://s3.jpg.cm/2020/09/10/1y7t5.png
